@@ -1,6 +1,6 @@
 body {
-background-color:lightsteelblue;
-overflow: scroll;
+background-color:#F2F2F3;
+overflow-y: scroll;
 }
 
 a {
@@ -13,6 +13,7 @@ th {
 background-color:#639344;
 height: 50px;
 width: 400px;
+
 }
 
 th.b{
@@ -25,7 +26,7 @@ font-family: Verdana;
 }
 
 th.c{
-background-color:lightsteelblue;
+background-color:#F2F2F3;
 width: 150px;
 }
 
@@ -34,28 +35,33 @@ font-family: Verdana;
 }
 
 td.d{
-background-color:darkolivegreen;
+
 border: solid 2px black;
 height: 50px;
-width: 150px;
+width: 200px;
+background-color:darkolivegreen;
 font-family: Verdana;
 
 }
 
 .h1 {
 border: solid 3px black;
+
 }
 
 .h2 {
 border: solid 3px black;
+
 }
 
 .h3 {
 border: solid 3px black;
+
 }
 
 .h4 {
 border: solid 3px black;
+
 }
 
 p {
